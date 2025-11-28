@@ -1,0 +1,15 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:sans-serif;}
+  body{background:#0a1a3f;color:#fff;}
+  .main{
+    display:flex;
+    gap:10px;
+    padding:10px;
+  }
+  .sub{
+    flex:1;
+    background:#112b5f;
+    border-radius:10px;
+    padding:15px;
+  }
+  .sub h2{color:#00c6ff;font-size:18px;margin-bottom:8px;}
+        .sub p{font-size:14px;color:#e2e2e2;}
